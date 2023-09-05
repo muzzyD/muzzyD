@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @muzzyD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-muzzyD/muzzyD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MegaHackV7 May Not Work
+This is A test To Try To Download MegaHack v7 For Free
+Whatever Boingo Idk
+This Might Work This Might Not
+Try it 
+I think you Still Have to pay
